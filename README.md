@@ -30,6 +30,6 @@ create a private key to access dshboard and metrics for your running container
 
 
 here are the screen shots
-![docker container](4.png)
-
 ![docker container](5.png)
+
+![docker container](6.png)
