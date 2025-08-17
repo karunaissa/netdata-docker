@@ -14,14 +14,26 @@ sudo systemctl enable --now netdata
  ![docker container]()
 ## view container in docker desktop (only if you are using)
 ![docker container]()
+
+
 from desktop click the port currently container is running you will redirected to net data page 
 ![docker container]()
+
+
+
 sign in as a first time user
 ![docker container]()
+
+
 select the space
 ![docker container]()
+
+
 create a private key to access dshboard and metrics for your running container
 ![docker container]()
+
+
 here are the screen shots
 ![docker container]()
+
 ![docker container]()
